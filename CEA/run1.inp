@@ -1,0 +1,9 @@
+problem rocket eq
+    p(psi) = 450
+    o/f = 2.6
+    sup = 16
+reac
+    fuel = RP-1 t(K) = 298.000
+    ox = O2 t(K) = 400.000
+outp trans
+end
