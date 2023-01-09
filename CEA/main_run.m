@@ -23,5 +23,4 @@ function main_run
     end
 
     data_eq = data('eq');
-    
 end
